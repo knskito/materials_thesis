@@ -9,7 +9,7 @@ You can create Figures 3.2 and 3.3 from materials in this folder, but please not
 
 - You need [cit-HepTh.txt](https://snap.stanford.edu/data/cit-HepTh.html) and [cit-Patents.txt](https://snap.stanford.edu/data/cit-Patents.html) as input.
 - You cannot perfectly reproduce these Figures because experimental studies in Chapter3 include stochastic process. 
-- You can use this program for both scientific publications and patents, even though the one in this folder focuses on patents.
+- You can use the same program for both scientific publications and patents, even though this folder focuses on patents.
 
 ## Chapter4
 You can create Figures 4.2 and 4.3 from materials in this folder, but please note the followings.
